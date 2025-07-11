@@ -30,13 +30,15 @@ A full-stack social media web application inspired by Meta’s Threads. This pro
 - 🔐 User Authentication with JWT  
 - 🧑‍💼 Profile creation and editing  
 - 🧵 Create, like, reply to, and repost threads  
+- 🖼 Upload and manage profile images via **Cloudinary**  
 - 🔁 Follow/unfollow users  
-- 🧭 Suggested users and search  
+- 🧭 Suggested users and user search functionality  
+- 🌗 Supports **Dark and Light Mode** with smooth toggle  
 - ⚡ Real-time activity tracking (WebSocket-ready or polling-based)  
-- 🎨 Fully responsive design with Tailwind CSS and Lucide icons  
-- ⚛ Built with modern React and React Router  
-- 📦 Global state managed with Zustand  
-- 🔄 RESTful API communication via Axios
+- 🎨 Fully responsive design using **Tailwind CSS** and **Lucide icons**  
+- ⚛ Built with modern **React** and **React Router v7**  
+- 📦 Global state managed with **Zustand**  
+- 🔄 Full RESTful API communication using **Axios**
 
 ---
 
