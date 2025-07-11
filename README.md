@@ -126,7 +126,7 @@ A full-stack social media web application inspired by Meta’s Threads. This pro
 - **Name**: Amr Ashraf  
 - **Email**: [amrashraf1592@gmail.com](mailto:amrashraf1592@gmail.com)  
 - **GitHub**: [amrashraf15](https://github.com/amrashraf15)  
-- **Project Link**: [MERN-Health-Care-App]([https://github.com/amrashraf15/MERN-AUTH](https://github.com/amrashraf15/MERN-Health-Care-App))
+- **Project Link**: [Threds-App](https://github.com/amrashraf15/Threads-app/tree/main)
 
 ---
 
