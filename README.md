@@ -2,9 +2,6 @@
 
 A full-stack social media web application inspired by Meta’s Threads. This project enables users to create short, threaded conversations, engage with posts through replies, likes, and reposts, and follow other users—delivering a clean, responsive social platform experience built with MongoDB, Express, React, and Node.js.
 
-## 🔗 DEMO
-*(Add your live site link here if available)*
-
 ---
 
 ## 📋 Table of Contents
