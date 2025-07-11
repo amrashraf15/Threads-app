@@ -34,7 +34,7 @@ A full-stack social media web application inspired by Meta’s Threads. This pro
 - 🔁 Follow/unfollow users  
 - 🧭 Suggested users and user search functionality  
 - 🌗 Supports **Dark and Light Mode** with smooth toggle  
-- ⚡ Real-time activity tracking (WebSocket-ready or polling-based)  
+- ⚡ Real-time activity tracking   
 - 🎨 Fully responsive design using **Tailwind CSS** and **Lucide icons**  
 - ⚛ Built with modern **React** and **React Router v7**  
 - 📦 Global state managed with **Zustand**  
